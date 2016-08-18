@@ -1,0 +1,23 @@
+{
+  "name": "deploy-test",
+  "version": "1.0.0",
+  "description": "deploy-test",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/deploy-test.git"
+  },
+  "keywords": [
+    "deploy",
+    "deploy-test"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/deploy-test/issues"
+  },
+  "homepage": "https://github.com/gavinning/deploy-test#readme"
+}
