@@ -1,6 +1,6 @@
 {
   "name": "deploy-test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "deploy-test",
   "main": "app.js",
   "scripts": {
@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/gavinning/deploy-test/issues"
   },
-  "homepage": "https://github.com/gavinning/deploy-test#readme"
+  "homepage": "https://github.com/gavinning/deploy-test#readme",
+  "dependencies": {
+    "aimee-extend": "^1.0.1",
+    "aimee-is": "^1.1.0",
+    "vpm-config": "^2.1.2"
+  }
 }
